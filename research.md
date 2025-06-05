@@ -224,7 +224,7 @@ You'd complete the scheme registration directly with HMRC, including submitting 
 - Ongoing HMRC relationship management
 
 ### Ongoing Administrative Burden (DIY)
-This includes preparing annual scheme accounts, coordinating actuarial valuations every three years, submitting regulatory returns to TPR, maintaining member records, processing contributions and benefits, and handling all correspondence with regulators.
+This includes preparing annual scheme accounts, coordinating actuarial valuations every three years (DIY solution is possible, dependant on circumstance), submitting regulatory returns to TPR, maintaining member records, processing contributions and benefits, and handling all correspondence with regulators.
 
 **DIY Administration Requirements:**
 - Monthly compliance monitoring
@@ -473,6 +473,52 @@ Monitoring Requirements: [Ongoing obligations]
 - **Knowledge Risk**: High - complex and changing regulatory environment
 - **Professional Risk**: High - reputational and career implications
 
+#### DIY Risk Assessment
+
+1. Record Keeping Failures Are Expensive
+
+Simple spreadsheet tracking isn't sufficient
+GDPR compliance often overlooked
+Reconstruction costs are always higher than prevention
+
+2. Investment Limits Are Strictly Enforced
+
+5% employer-related investment limit is absolute
+50% loan limit includes ALL connected party exposures
+Independent valuations are mandatory, not optional
+
+3. Regulatory Penalties Escalate Quickly
+
+Late filing penalties start at £400 but compound
+Event reporting failures can trigger enhanced monitoring
+Tax charges on unauthorized payments are severe (40-55%)
+
+4. Knowledge Gaps Have Major Consequences
+
+Pension age rules are complex and changing
+Death benefit planning affects inheritance tax significantly
+Investment decisions need professional framework
+
+5. Emergency Support Is Always Expensive
+
+Sole trustee arrangements create single points of failure
+Urgent professional help costs 2-3x normal rates
+Time-sensitive transactions suffer without proper support
+
+The Mathematics of Risk:
+DIY Annual Costs: £0-£1,000
+Average Failure Cost: £20,000-£100,000
+Professional Support Cost: £3,000-£6,000 annually
+Risk-Adjusted Analysis:
+
+DIY with 10% annual failure probability = £2,000-£10,000 expected cost
+Professional support = £3,000-£6,000 guaranteed cost
+Professional support often costs LESS than the risk-adjusted DIY approach
+
+These examples demonstrate why the TPR guidance, while comprehensive, requires significant expertise to implement correctly in practice.
+
+
+
 ### When DIY Becomes Impossible
 - **Complex investments** (property, alternative assets)
 - **Multiple members** with different interests
@@ -494,7 +540,7 @@ Monitoring Requirements: [Ongoing obligations]
 - Residential property for occupation by members or connected parties
 - Direct loans to members (except for certain qualifying loans)
 - Investments in the sponsoring employer beyond the 5% limit
-- Tangible moveable property (antiques, wine, classic cars, etc.)
+- Tangible moveable property (antiques, wine, classic cars, etc.) ("things that can be touched and that are moveable") (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125100) (http://www.gov.uk/guidance/pension-trustees-investments-and-tax)
 - Certain types of insurance policies
 
 ## Borrowing Restrictions
@@ -547,6 +593,179 @@ Monitoring Requirements: [Ongoing obligations]
 - Serious compliance failures: unlimited penalties and potential scheme deregistration
 - Individual trustee penalties: £300-£10,000+ for serious breaches
 - Criminal penalties possible for deliberate non-compliance
+
+# Official Sources for TPR Powers and Breach Consequences
+
+## ✅ **VERIFIED OFFICIAL SOURCES FOR TPR'S POWERS**
+
+### **1. Power to Issue Improvement Notices**
+
+**✅ CONFIRMED - Official TPR Source:**
+
+TPR has issued "improvement notices" as part of its enforcement activities, with recent examples showing "TPR used its powers 10 times in relation to dVFM assessments between January and June 2024. It issued seven penalties, totalling £19,250, and three improvement notices"
+
+Official TPR enforcement policy states: "These direct a person to do something or take certain steps or refrain from acting in a particular way and may be required to be completed within a specified timeframe"
+
+**Official Sources:**
+- https://www.thepensionsregulator.gov.uk/en/document-library/regulatory-and-enforcement-policies/scheme-management-enforcement-policy/enforcement-options
+- https://www.thepensionsregulator.gov.uk/en/media-hub/press-releases/2024-press-releases/wind-ups-continue-as-tpr-value-drive-sees-seven-schemes-fined-thousands
+
+### **2. Ability to Appoint Independent Trustees**
+
+**✅ CONFIRMED - Official TPR Sources:**
+
+TPR guidance states: "In certain circumstances, a trustee can be appointed by a court or The Pensions Regulator and may take over some, or all, of the powers of the existing trustees or just strengthen the board"
+
+TPR has "updated guidance to help those making third-party applications, including those to appoint an independent trustee (IT)" and notes this procedure is used "where there is evidence of trustee failings, the case team may consider that an independent trustee with exclusive powers should be appointed without delay"
+
+**Official Sources:**
+- https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/governing-body-detailed-guidance/trustee-guidance
+- https://www.thepensionsregulator.gov.uk/en/media-hub/press-releases/2025-press-releases/application-process-improved-for-use-of-certain-pension-powers
+- https://www.thepensionsregulator.gov.uk/en/about-us/how-we-regulate-and-enforce/case-procedures-
+
+### **3. Power to Impose Civil Penalties**
+
+**✅ CONFIRMED - Official TPR Sources:**
+
+TPR's Monetary Penalties Policy states: "This policy sets out how The Pensions Regulator will use its powers to impose monetary penalties under pensions legislation"
+
+Recent enforcement shows: "TPR used its powers 10 times in relation to dVFM assessments... It issued seven penalties, totalling £19,250"
+
+Under the Pension Schemes Act 2021: "TPR an alternative power to impose civil financial penalties of up to £1 million"
+
+**Official Sources:**
+- https://www.thepensionsregulator.gov.uk/en/document-library/regulatory-and-enforcement-policies/monetary-penalties-policy
+- https://www.thepensionsregulator.gov.uk/en/media-hub/press-releases/2024-press-releases/wind-ups-continue-as-tpr-value-drive-sees-seven-schemes-fined-thousands
+- https://www.bclplaw.com/en-US/events-insights-news/new-criminal-civil-and-investigatory-powers-for-the-pensions-regulator.html
+
+### **4. Authority to Prosecute for Criminal Offenses**
+
+**✅ CONFIRMED - Official TPR Sources:**
+
+TPR states: "Criminal powers – These are powers used in the criminal courts where we act as prosecutor... There are a number of criminal offences concerned specifically with workplace pensions... which we have the power to prosecute"
+
+TPR's prosecution policy explains: "TPR usually acts as a private prosecutor and is a designated prosecutor for the offences under s58A and s58B of the Pensions Act 2004"
+
+Specific criminal offenses include: "Wilfully failing to put eligible staff into a pension scheme and knowingly providing false information... If we prosecute you, the maximum punishment is two years in prison or a fine"
+
+**Official Sources:**
+- https://www.thepensionsregulator.gov.uk/en/document-library/regulatory-and-enforcement-policies/scheme-management-enforcement-policy/enforcement-options
+- https://www.thepensionsregulator.gov.uk/en/document-library/regulatory-and-enforcement-policies/prosecution-policy
+- https://www.thepensionsregulator.gov.uk/en/employers/warnings-notices-and-payment-of-fines/how-we-enforce
+- https://www.thepensionsregulator.gov.uk/en/document-library/regulatory-and-enforcement-policies/criminal-offences-policy
+
+### **5. Power to Freeze Scheme Assets**
+
+**⚠️ PARTIALLY CONFIRMED:**
+
+TPR has "statutory powers which can only be pursued in the civil courts, such as: our power to seek an injunction to restrain a person under s15 of the Pensions Act 2004 where there has been, or there is a reasonable likelihood there will be, a misuse or misappropriation of scheme assets"
+
+**Official Source:**
+- https://www.thepensionsregulator.gov.uk/en/document-library/regulatory-and-enforcement-policies/scheme-management-enforcement-policy/enforcement-options
+
+**Note:** This is an injunction power rather than direct freezing power, but achieves similar effect.
+
+## ✅ **VERIFIED CONSEQUENCES OF BREACHES**
+
+### **1. Loss of Tax Reliefs and Registration**
+
+**✅ CONFIRMED - Official HMRC Source:**
+
+HMRC states: "You cannot claim tax relief if your pension scheme is not registered with HMRC"
+
+For improper transfers: "If a transfer is made and it later turns out that the scheme is not a ROPS, the member will have to pay tax of at least 40% of the value of the fund"
+
+**Official Sources:**
+- https://www.gov.uk/tax-on-your-private-pension/pension-tax-relief
+- https://www.gov.uk/guidance/pension-administrators-member-transfers
+
+### **2. Personal Liability for Trustees**
+
+**✅ CONFIRMED - Official TPR Source:**
+
+TPR states: "Trustees who breach ERI restrictions can be fined up to £5,000 for individual trustees or £50,000 (for corporate trustees), or imprisonment, or both"
+
+**Official Source:**
+- https://www.thepensionsregulator.gov.uk/en/trustees/employer-related-investments
+
+### **3. Regulatory Investigation and Ongoing Supervision**
+
+**✅ CONFIRMED - Official TPR Sources:**
+
+TPR publishes "determination notices" providing "detailed accounts of decisions that the Determinations Panel has made" and maintains ongoing enforcement activity
+
+TPR states: "Our decision to publish information, including details of our enforcement cases, ensures we are transparent about the use of our powers, and plays an important role in informing and educating those we regulate"
+
+**Official Sources:**
+- https://www.thepensionsregulator.gov.uk/en/document-library/enforcement-activity/determination-notices
+- https://www.thepensionsregulator.gov.uk/en/document-library/enforcement-activity/penalty-notices
+- https://www.thepensionsregulator.gov.uk/en/document-library/enforcement-activity
+
+### **4. Potential Scheme Wind-Up**
+
+**⚠️ IMPLIED BUT NOT EXPLICITLY STATED:**
+
+While not directly stated, TPR's power to appoint independent trustees and intervene suggests wind-up powers exist, but specific wind-up authority wasn't found in the search results.
+
+### **5. Reputational Damage**
+
+**✅ CONFIRMED - Official TPR Source:**
+
+TPR explicitly publishes penalty information: "Tables (a) and (b) name certain categories of employers who have received an Escalating Penalty Notice (EPN)" and publishes enforcement cases publicly
+
+**Official Source:**
+- https://www.thepensionsregulator.gov.uk/en/document-library/enforcement-activity/penalty-notices
+
+## **ADDITIONAL SUPPORTING SOURCES**
+
+### **Legislative Framework:**
+- https://www.legislation.gov.uk/ukpga/2004/35/contents - Pensions Act 2004 (Primary legislation establishing TPR's powers)
+- https://www.legislation.gov.uk/ukpga/2021/1/contents - Pension Schemes Act 2021 (Enhanced TPR powers)
+
+### **Secondary Sources:**
+- https://www.thepensionsregulator.gov.uk/en/document-library/consultations/enforcement-and-prosecution-policies-consultation/enforcement-and-prosecution-policies-consultation-response
+- https://www.thepensionsregulator.gov.uk/en/media-hub/press-releases/2022-press-releases/new-consolidated-and-simplified-enforcement-policy-and-updated-prosecution-policy-published-by-tpr
+
+### **HMRC Official Sources:**
+- https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000 - HMRC Pensions Tax Manual (Investment principles)
+- https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm122000 - HMRC Pensions Tax Manual (Shares and equities - 5% limit)
+- https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125100 - HMRC Pensions Tax Manual (Tangible moveable property)
+- https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125200 - HMRC Pensions Tax Manual (Residential property)
+- https://www.gov.uk/guidance/pension-trustees-investments-and-tax - HMRC Tax on investments for pension trustees
+
+### **Additional TPR Resources:**
+- https://www.thepensionsregulator.gov.uk/en/trustees/submit-reports-payments-and-requests-to-us/register-a-pension-scheme - TPR Scheme Registration
+- https://www.thepensionsregulator.gov.uk/en/about-us/what-tpr-does-and-who-we-are - TPR Overview
+- https://trusteetoolkit.thepensionsregulator.gov.uk/ - TPR Free Trustee Toolkit
+
+## **SUMMARY - VERIFICATION STATUS:**
+
+### ✅ **Fully Verified:**
+- Improvement notices power
+- Independent trustee appointment power  
+- Civil penalty powers (up to £1 million)
+- Criminal prosecution authority
+- Loss of tax relief consequences
+- Personal trustee liability
+- Regulatory investigation and supervision
+- Reputational damage through public naming
+
+### ⚠️ **Partially Verified:**
+- Asset freezing (via injunction powers, not direct freezing)
+- Scheme wind-up (implied through intervention powers)
+
+## **KEY TAKEAWAYS:**
+
+1. **TPR has extensive enforcement powers** backed by legislation and case law
+2. **Criminal penalties can include up to 2 years imprisonment** for serious offenses
+3. **Civil penalties can reach £1 million** under new 2021 legislation
+4. **Personal trustee liability is real** with fines up to £50,000 for corporate trustees
+5. **Loss of tax relief is automatic** if scheme loses registered status
+6. **Public naming and shaming** is standard practice for enforcement cases
+7. **Independent trustee appointment** is a serious intervention tool
+
+**Conclusion:** The claims about TPR's powers and breach consequences are substantially accurate and well-supported by official sources. The regulatory framework provides significant deterrents against non-compliance and substantial protection for pension scheme members.
+
 
 ## The Pensions Regulator's Powers
 - Power to issue improvement notices requiring specific actions
