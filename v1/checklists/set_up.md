@@ -1,3 +1,12 @@
+# Lightweight SSAS Setup & Administration TODO Checklist
+
+1.  https://www.gov.uk/guidance/pension-administrators-register-as-an-administrator
+
+1a. You’ll have to register as a new scheme administrator online: https://www.tax.service.gov.uk/gg/sign-in?continue=/register-as-pension-scheme-administrator&origin=PSO-frontend
+
+1b. Once you’ve registered, when you sign in to the online service you’ll be able to view your scheme administrator details, anad details of the schemes you’re the administrator of: https://www.tax.service.gov.uk/gg/sign-in?continue=/manage-pension-schemes/overview&origin=PSO-frontend
+
+
 # Complete SSAS Setup & Administration TODO Checklist
 
 ## Phase 1: Initial Planning & Decision Making
